@@ -90,6 +90,6 @@
 
 ## Identitas Pembuat
 
-- **Nama**: Daiyan Nur Fuadi
+- **Nama**: Muhammad Irsyad Maulana Puspadanta
 - **GitHub**: [MakanSiangGratis](https://github.com/MakanSiangGratis)
 - **Email**: [maulanairsyad014@gmail.com]
